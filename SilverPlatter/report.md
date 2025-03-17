@@ -86,7 +86,7 @@ http://10.10.120.135:8080/silverpeas/
 ---
 ## Exploitation
 
-### Silverpeas Authentication Bypass (CVE-2024-36042)
+### Silverpeas Authentication Bypass [(CVE-2024-36042)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36042)
 
 Reference: [Exploit Code](https://gist.github.com/ChrisPritchard/4b6d5c70d9329ef116266a6c238dcb2d)
 - Used Burp Suite to intercept the login request.

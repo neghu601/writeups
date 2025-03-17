@@ -1,13 +1,13 @@
 
 # Mr. Robot CTF - TryHackMe Report
 
+![/banner](./Screenshots/banner.png)
+
 ## Target Information
 - **Name:** [Mr. Robot CTF](https://tryhackme.com/room/mrrobot)  
 - **Platform:** TryHackMe  
 - **Difficulty:** Medium    
 - **Creator:** [Ben](https://tryhackme.com/p/ben)  
-
-![/banner](./Screenshots/banner.png)
 
 The Mr. Robot CTF is a medium-difficulty challenge on TryHackMe, inspired by the popular TV show. The goal is to exploit vulnerabilities in a target machine to find three hidden flags, ultimately gaining root access. This report documents the steps taken, tools used, and techniques applied to successfully complete the challenge.
 

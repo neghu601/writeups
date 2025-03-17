@@ -1,11 +1,12 @@
 # Silverpeas - TryHackMe Report
+
+![/banner](./Screenshots/banner.png)
+
 ## Target Information
 - **Name:** [Silver Platter](https://tryhackme.com/room/silverplatter)
 - **Platform** TryHackMe
 - **Difficulty:** Easy
 - **Creator:** [TeneBrae93](https://tryhackme.com/p/TeneBrae93)
-
-![/banner](./Screenshots/banner.png)
 
 Uncover the flaws lurking beneath the surface of the Silverpeas platform. This box challenges you to exploit a critical authentication bypass vulnerability to gain initial access, pivot through compromised credentials, and escalate privileges. Test your web exploitation and enumeration skills while navigating through this real-world web application.
 

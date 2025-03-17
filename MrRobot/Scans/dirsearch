@@ -1,0 +1,32 @@
+# Dirsearch started Sun Mar 16 09:26:26 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://10.10.156.120 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/raft-small-directories.txt -e php,html,txt,zip,sql,bak,log -x 404,403 -r --deep-recursive -t 100 --random-agent -o /home/kali/boxes/mrrobot/dirsearch.txt
+
+302     0B   https://10.10.156.120/login    -> REDIRECTS TO: https://10.10.156.120/wp-login.php
+301     0B   https://10.10.156.120/rss    -> REDIRECTS TO: https://10.10.156.120/feed/
+405    42B   https://10.10.156.120/xmlrpc
+301   241B   https://10.10.156.120/wp-content    -> REDIRECTS TO: https://10.10.156.120/wp-content/
+301     0B   https://10.10.156.120/feed    -> REDIRECTS TO: https://10.10.156.120/feed/
+301   235B   https://10.10.156.120/blog    -> REDIRECTS TO: https://10.10.156.120/blog/
+301   237B   https://10.10.156.120/images    -> REDIRECTS TO: https://10.10.156.120/images/
+301   242B   https://10.10.156.120/wp-includes    -> REDIRECTS TO: https://10.10.156.120/wp-includes/
+301   233B   https://10.10.156.120/js    -> REDIRECTS TO: https://10.10.156.120/js/
+301   234B   https://10.10.156.120/css    -> REDIRECTS TO: https://10.10.156.120/css/
+301   236B   https://10.10.156.120/admin    -> REDIRECTS TO: https://10.10.156.120/admin/
+301   239B   https://10.10.156.120/wp-admin    -> REDIRECTS TO: https://10.10.156.120/wp-admin/
+301   236B   https://10.10.156.120/video    -> REDIRECTS TO: https://10.10.156.120/video/
+200     0B   https://10.10.156.120/sitemap
+301   236B   https://10.10.156.120/audio    -> REDIRECTS TO: https://10.10.156.120/audio/
+301     0B   https://10.10.156.120/image    -> REDIRECTS TO: https://10.10.156.120/image/
+302     0B   https://10.10.156.120/dashboard    -> REDIRECTS TO: https://10.10.156.120/wp-admin/
+200     1KB  https://10.10.156.120/wp-login
+301     0B   https://10.10.156.120/0    -> REDIRECTS TO: https://10.10.156.120/0/
+301     0B   https://10.10.156.120/atom    -> REDIRECTS TO: https://10.10.156.120/feed/atom/
+200    41B   https://10.10.156.120/robots
+200   158B   https://10.10.156.120/license
+200   504KB  https://10.10.156.120/intro
+301     0B   https://10.10.156.120/Image    -> REDIRECTS TO: https://10.10.156.120/Image/
+301     0B   https://10.10.156.120/IMAGE    -> REDIRECTS TO: https://10.10.156.120/IMAGE/
+301     0B   https://10.10.156.120/rss2    -> REDIRECTS TO: https://10.10.156.120/feed/
+200    64B   https://10.10.156.120/readme
+301     0B   https://10.10.156.120/rdf    -> REDIRECTS TO: https://10.10.156.120/feed/rdf/
+301     0B   https://10.10.156.120/0000    -> REDIRECTS TO: https://10.10.156.120/0000/
+200     0B   https://10.10.156.120/wp-config

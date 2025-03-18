@@ -1,0 +1,22 @@
+/.php                [33m (Status: 403)[0m [Size: 278]
+/.html               [33m (Status: 403)[0m [Size: 278]
+/_themes             [36m (Status: 301)[0m [Size: 324][34m [--> http://10.10.213.231/content/_themes/][0m
+/as                  [36m (Status: 301)[0m [Size: 319][34m [--> http://10.10.213.231/content/as/][0m
+/attachment          [36m (Status: 301)[0m [Size: 327][34m [--> http://10.10.213.231/content/attachment/][0m
+/.hta                [33m (Status: 403)[0m [Size: 278]
+/.hta.html           [33m (Status: 403)[0m [Size: 278]
+/.htpasswd.html      [33m (Status: 403)[0m [Size: 278]
+/.htpasswd           [33m (Status: 403)[0m [Size: 278]
+/.htaccess.xml       [33m (Status: 403)[0m [Size: 278]
+/.htaccess           [33m (Status: 403)[0m [Size: 278]
+/.hta.php            [33m (Status: 403)[0m [Size: 278]
+/.htpasswd.php       [33m (Status: 403)[0m [Size: 278]
+/.htpasswd.xml       [33m (Status: 403)[0m [Size: 278]
+/.htaccess.html      [33m (Status: 403)[0m [Size: 278]
+/.hta.xml            [33m (Status: 403)[0m [Size: 278]
+/.htaccess.php       [33m (Status: 403)[0m [Size: 278]
+/images              [36m (Status: 301)[0m [Size: 323][34m [--> http://10.10.213.231/content/images/][0m
+/inc                 [36m (Status: 301)[0m [Size: 320][34m [--> http://10.10.213.231/content/inc/][0m
+/index.php           [32m (Status: 200)[0m [Size: 2199]
+/index.php           [32m (Status: 200)[0m [Size: 2199]
+/js                  [36m (Status: 301)[0m [Size: 319][34m [--> http://10.10.213.231/content/js/][0m

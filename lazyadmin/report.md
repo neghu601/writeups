@@ -240,7 +240,7 @@ THM{REDACTED}
 - Captured **both user and root flags**.
 
 ### **Key Security Issues Identified:**
-- **Weak Password Management:** The `manager` account used `Password123`, easily cracked.
+- **Weak Password Management:** The `manager` account used a weak password, easily cracked.
 - **Misconfigured Permissions:** `backup.pl` allowed privilege escalation due to incorrect sudo permissions.
 - **Lack of Input Sanitization:** Uploading and executing a PHP shell highlights the importance of input validation.
 

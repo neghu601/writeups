@@ -1,4 +1,4 @@
-# Gobuster Automation Script
+# Gobuster Wrapper Script
 
 ## Overview
 This Bash script automates directory and file brute-forcing with **Gobuster**, making it easier to launch scans by prompting for key parameters interactively.
